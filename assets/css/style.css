@@ -7989,7 +7989,7 @@ blockquote.vs-quote .quote-author {
   padding: 135px 0 110px;
   transform: translateY(-120px);
   border: 8px solid transparent;
-  border-image: linear-gradient(4deg, rgb(16, 156, 61) 0%, rgba(255, 255, 255, 0) 70%);
+  /* border-image: linear-gradient(4deg, rgb(16, 156, 61) 0%, rgba(255, 255, 255, 0) 70%); */
   border-image-slice: 1;
   z-index: 1;
   position: relative;
